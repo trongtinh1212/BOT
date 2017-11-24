@@ -1,0 +1,13 @@
+[01-Nov-2017 05:03:31 America/Detroit] PHP Fatal error:  Unsupported operand types in /home/nha35xiaimxh/thietkewebsite.ga/test.php on line 6
+[01-Nov-2017 05:04:09 America/Detroit] PHP Fatal error:  Unsupported operand types in /home/nha35xiaimxh/thietkewebsite.ga/test.php on line 6
+[01-Nov-2017 05:05:14 America/Detroit] PHP Fatal error:  Call to undefined function atcurl() in /home/nha35xiaimxh/thietkewebsite.ga/test.php on line 4
+[01-Nov-2017 05:05:47 America/Detroit] PHP Fatal error:  Call to undefined function request() in /home/nha35xiaimxh/thietkewebsite.ga/test.php on line 4
+[01-Nov-2017 05:05:59 America/Detroit] PHP Fatal error:  Call to undefined function request() in /home/nha35xiaimxh/thietkewebsite.ga/test.php on line 4
+[01-Nov-2017 05:07:10 America/Detroit] PHP Fatal error:  Unsupported operand types in /home/nha35xiaimxh/thietkewebsite.ga/test.php on line 6
+[01-Nov-2017 05:21:27 America/Detroit] PHP Parse error:  syntax error, unexpected end of file in /home/nha35xiaimxh/thietkewebsite.ga/likecmt1.php on line 70
+[01-Nov-2017 09:12:24 America/Detroit] PHP Warning:  require(cauhinh1.php): failed to open stream: No such file or directory in /home/nha35xiaimxh/thietkewebsite.ga/botbt.php on line 4
+[01-Nov-2017 09:12:24 America/Detroit] PHP Warning:  require(cauhinh1.php): failed to open stream: No such file or directory in /home/nha35xiaimxh/thietkewebsite.ga/botbt.php on line 4
+[01-Nov-2017 09:12:24 America/Detroit] PHP Fatal error:  require(): Failed opening required 'cauhinh1.php' (include_path='.:/usr/lib/php:/usr/local/lib/php:/usr/local/php55/lib/php') in /home/nha35xiaimxh/thietkewebsite.ga/botbt.php on line 4
+[01-Nov-2017 09:13:12 America/Detroit] PHP Warning:  require(cauhinh2.php): failed to open stream: No such file or directory in /home/nha35xiaimxh/thietkewebsite.ga/botcr.php on line 4
+[01-Nov-2017 09:13:12 America/Detroit] PHP Warning:  require(cauhinh2.php): failed to open stream: No such file or directory in /home/nha35xiaimxh/thietkewebsite.ga/botcr.php on line 4
+[01-Nov-2017 09:13:12 America/Detroit] PHP Fatal error:  require(): Failed opening required 'cauhinh2.php' (include_path='.:/usr/lib/php:/usr/local/lib/php:/usr/local/php55/lib/php') in /home/nha35xiaimxh/thietkewebsite.ga/botcr.php on line 4

@@ -40,7 +40,7 @@ $con = @mysql_connect($dbhost, $dbuser, $dbpass);
 }
 
 if(isset($_POST['password'])){
-  $Password = 'phongbesttristana'; //option password
+  $Password = 'pass'; //option password
   if($_POST['password'] == $Password){
     echo (01);
     $_SESSION['index'] = true;
